@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/netlify/anything"
-  to = "https://www.google.com/search?q=grandtetons%"
+  to = "https://www.google.com/search?q=grandtetons"
   status = 301
   force = false
