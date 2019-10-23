@@ -14,9 +14,9 @@ The following are selected experiences that make me a uniquely qualified candida
 
 My responsibilities at PLOS honed my skills in a wide range of technologies including Python, Ruby, Bash, PHP, JavaScript, CSS, and configuration management of multiple Linux servers. I also work with several databases including MySQL, Postgres, and CouchDB. I have extensive experience debugging legacy systems as well as supporting web UIs across all browsers.
 
-I overhauled the realtime metrics used in our Article Level Metrics using Apache Kafka, Python (Flask, Flask-API), and MySQL.
+I overhauled the realtime metrics used in PLOS' Article Level Metrics using Apache Kafka, Python (Flask, Flask-API), and MySQL.
 
-I oversaw the creation and maintenance of an open access journal built entirely on WordPress (currents.plos.org) and was the sole developer and designer for our recently launched research news arm (researchnews.plos.org). I also oversaw the redesign of our blogs network (blogs.plos.org) and created a high-availability multi-site WordPress installation. I worked extensively on PLOS’s open source realtime metrics Ruby on Rails application (alm.plos.org).
+I oversaw the creation and maintenance of an open access journal built entirely on WordPress (currents.plos.org) and was the sole developer and designer for PLOS' recently launched research news arm (researchnews.plos.org). I also oversaw the redesign of their blogs network (blogs.plos.org) and created a high-availability multi-site WordPress installation. I worked extensively on PLOS’s open source realtime metrics Ruby on Rails application (alm.plos.org).
 
 I pride myself in clear communication in both written and verbal settings and get great satisfaction in helping customers and stakeholders to solve their problems.
 
