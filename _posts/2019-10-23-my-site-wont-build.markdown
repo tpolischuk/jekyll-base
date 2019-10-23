@@ -4,7 +4,7 @@ title:  "Response to: My site won't build!"
 date:   2019-10-23 00:17:40
 categories: netlify support
 ---
-Thank you for contacting Netlify support, i’m sorry you’re having an issue with [insert more specific information about their issue showing them that you’ve read their initial request].
+Thank you for contacting Netlify support, I’m sorry you’re having an issue with [insert more specific information about their issue showing them that you’ve read their initial request].
 
 My name is Trevor and I will be assisting you. 
 
