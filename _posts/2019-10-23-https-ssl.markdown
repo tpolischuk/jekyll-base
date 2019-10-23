@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Favorite Documentation"
-date:   2019-10-23 00:04:40
+title:  "The importance of HTTPS and SSL"
+date:   2019-10-23 00:10:40
 categories: netlify support
 ---
-https://reactjs.org/docs/
-It’s a hard reality that documentation quality is directly correlated to effort. I have had a great experience using the docs to pick up React recently. The layout is clean, easy to navigate, and up to date within a very volatile front-end world. Facebook, obviously, has the resources to support this type of quality documentation. Another great example of quality documentation is the Mozilla Developer Network, which is always a great go-to sources as a references for issues regarding web standards because they are remarkably thorough and accurate. 
+Basically, HTTPS and SSL are the base level of encryption on the web that enhances privacy and security by encrypting the data and requests we send over the internet to websites. It protects from man in the middle attacks when passing sensitive information like authentication or payments. While these are everyday examples that help users, I think it is also important to note that the internet is a truly global resources, and in other countries visiting a prohibited website could have life or death consequences. I think it’s important that the internet maintains some of the loftier goals that the creators of the world wide web had in mind to preserve and expand open knowledge and communication, and SSL/HTTPS is a cornerstone of the implementation.

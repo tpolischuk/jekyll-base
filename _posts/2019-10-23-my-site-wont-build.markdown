@@ -1,8 +1,17 @@
 ---
 layout: post
-title:  "Favorite Documentation"
-date:   2019-10-23 00:04:40
+title:  "Response to: My site won't build!"
+date:   2019-10-23 00:17:40
 categories: netlify support
 ---
-https://reactjs.org/docs/
-It’s a hard reality that documentation quality is directly correlated to effort. I have had a great experience using the docs to pick up React recently. The layout is clean, easy to navigate, and up to date within a very volatile front-end world. Facebook, obviously, has the resources to support this type of quality documentation. Another great example of quality documentation is the Mozilla Developer Network, which is always a great go-to sources as a references for issues regarding web standards because they are remarkably thorough and accurate. 
+Thank you for contacting Netlify support, i’m sorry you’re having an issue with [insert more specific information about their issue showing them that you’ve read their initial request].
+
+My name is Trevor and I will be assisting you. 
+
+Before we get started, can you provide me as much relevant log information that is output while you are seeing the problem? 
+
+Have you been able to successfully deploy this application in the past?
+
+Have there been any recent changes that you think might be affecting the build job? 
+
+Is the code open source or are you willing to share this access with me?
