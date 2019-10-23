@@ -4,9 +4,11 @@ title: About Trevor
 permalink: /about/
 ---
 
-I am a programmer located in Ojai. I am very interested in working for Netlify.
+![Misty and Trevor](https://i.imgur.com/bvSJAkF.jpg)
+
+My name is Trevor Polischuk, and I am a programmer located in Ojai, California. I am very interested in working for Netlify.
  
-I believe my wide range of experience building software for the web and my industry experience in digital publishing, advertising, and high-traffic customer facing web applications dovetails into your needs for an experienced web engineer to build a product for clients from design to deployment. I thrive in work environments that take advantage of the most productive hours, minimize wasted time, and focus on results. I am confident in my ability to mentor junior engineers and collaborate with my colleagues to improve communication and engineering processes on the team.
+I believe my wide range of experience building software for the web and my industry experience in digital publishing, advertising, and high-traffic customer facing web applications dovetails into your needs for an experienced support engineer to support your rapidly growing product. I thrive in work environments that take advantage of the most productive hours, minimize wasted time, and focus on results. I am confident in my ability to help developers work through their technical issues and publish their hard work quickly and easily.
 
 The following are selected experiences that make me a uniquely qualified candidate for this position:
 
